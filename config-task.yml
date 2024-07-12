@@ -1,8 +1,8 @@
 # Name and metadata of your task
 task_name: 'Web3 Police'
 author: 'ariutokintumi'
-description: 'This task receives information about a transaction and verifies signarure to detect malicious nodes'
-repositoryUrl: 'https://github.com/ariutokintumi/task-koii' #replace with your own repo url
+description: 'This task receives information about a transaction and verifies signatures to detect malicious nodes'
+repositoryUrl: 'https://github.com/ariutokintumi/Koii-example' #replace with your own repo url
 imageUrl: 'https://i.ibb.co/s1J9QPG/signature-verify.png'
 
 # task_executable_network : DEVELOPMENT, ARWEAVE or IPFS
